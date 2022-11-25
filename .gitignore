@@ -1,0 +1,7 @@
+/.idea
+/.vs
+/.vscode
+/StableDiffusion/bin
+/StableDiffusion/obj
+/StableDiffusion/.env
+/StableDiffusion.sln.DotSettings.user
